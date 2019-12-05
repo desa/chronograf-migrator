@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/influxdata/chronograf"
-	"github.com/influxdata/chronograf/bolt"
+	"github.com/influxdata/influxdb/chronograf"
+	"github.com/influxdata/influxdb/chronograf/bolt"
 )
 
 func main() {
